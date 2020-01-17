@@ -10,5 +10,5 @@ This is the study notes I used for Emacs.
 * [添加插件](4.添加插件.md)
     * [插件包管理](4.添加插件.md#插件包管理)
     * [添加evil插件](4.添加插件.md#添加evil插件)
-    * 添加helm-projectile
+    * [添加helm-projectile](4.添加插件.md#helm-projectile)
 * emacs配置
